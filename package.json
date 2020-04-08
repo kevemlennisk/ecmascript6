@@ -1,0 +1,23 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "ECMASCript Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/keven-lenisk/ecmascript6.git"
+  },
+  "keywords": [
+    "ecmascript",
+    "ecma6"
+  ],
+  "author": "Kevem Lennisk Almeida Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keven-lenisk/ecmascript6/issues"
+  },
+  "homepage": "https://github.com/keven-lenisk/ecmascript6#readme"
+}
